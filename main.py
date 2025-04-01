@@ -1,5 +1,5 @@
 import tkinter as tk
-from sudoku_game import SudokuGame
+from sudoku_game_ui import SudokuGame
 
 def main():
     root = tk.Tk()
